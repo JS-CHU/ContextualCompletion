@@ -1,0 +1,4 @@
+# ninja log v5
+1	26030	1722828045171928601	/Workspace/private/code/completion/pytorch_structural_losses/build/temp.linux-x86_64-cpython-310/structural_loss.o	66c3b432427af191
+1	27848	1722828046987937858	/Workspace/private/code/completion/pytorch_structural_losses/build/temp.linux-x86_64-cpython-310/nndistance.o	d24e98dabc81d285
+0	29049	1722828048195944016	/Workspace/private/code/completion/pytorch_structural_losses/build/temp.linux-x86_64-cpython-310/approxmatch.o	2959dee9b305595c
